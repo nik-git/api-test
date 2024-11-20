@@ -1,6 +1,6 @@
 [![tests](https://github.com/and-buk/api-test/actions/workflows/tests.yml/badge.svg)](https://github.com/and-buk/api-test/actions/workflows/tests.yml)
 
-This repository contains REST API Testing automation code using Python
+This repository contains REST API Testing automation code using Pythonn
 
 The project uses:
 1. Python 3.9 and higher
