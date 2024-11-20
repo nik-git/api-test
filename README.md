@@ -3,7 +3,7 @@
 This repository contains REST API Testing automation code using Pythonn
 
 The project uses:
-1. Python 3.9 and higher
+1. Python 3.9 and higherr
 2. Pytest
 3. Requests
 4. Allure Framework for reports
