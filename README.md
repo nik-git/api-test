@@ -58,7 +58,7 @@ pytest -m negative
 ```
 - **With Allure Test report**
 ```
-pytest --alluredir=allure_reports
+pytest --alluredir=allure_reportss
 ```
 Show generated report in browser:
 ```
